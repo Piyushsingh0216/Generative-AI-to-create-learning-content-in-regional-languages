@@ -1,0 +1,11 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hindi assistant">
+  <rect width="160" height="160" rx="24" fill="#fff8f0"/>
+  <circle cx="80" cy="54" r="28" fill="#f4c9a4"/>
+  <path d="M52 128c3-24 16-38 28-38s25 14 28 38H52z" fill="#c46a1f"/>
+  <path d="M58 90h44v12H58z" fill="#efb366"/>
+  <circle cx="70" cy="52" r="3" fill="#333"/>
+  <circle cx="90" cy="52" r="3" fill="#333"/>
+  <path d="M70 66c3 3 7 5 10 5s7-2 10-5" stroke="#8a4b14" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M50 42c6-16 21-24 30-24s24 8 30 24" fill="#2d1b14"/>
+  <path d="M44 136h72" stroke="#d79557" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tamil assistant">
+  <rect width="160" height="160" rx="24" fill="#f3fff8"/>
+  <circle cx="80" cy="54" r="28" fill="#f3c8a2"/>
+  <path d="M50 128c4-25 16-38 30-38 14 0 26 13 30 38H50z" fill="#2f8f65"/>
+  <path d="M58 94h44v10H58z" fill="#7cc8a1"/>
+  <circle cx="70" cy="52" r="3" fill="#333"/>
+  <circle cx="90" cy="52" r="3" fill="#333"/>
+  <path d="M70 66c3 3 7 5 10 5s7-2 10-5" stroke="#7a3e13" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M52 44c8-18 23-24 28-24s20 6 28 24" fill="#1f1f1f"/>
+  <rect x="44" y="132" width="72" height="8" rx="4" fill="#5aac86"/>
+</svg>

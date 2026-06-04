@@ -1,0 +1,11 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bhojpuri assistant">
+  <rect width="160" height="160" rx="24" fill="#fffdf2"/>
+  <circle cx="80" cy="54" r="28" fill="#efc39f"/>
+  <path d="M50 128c3-24 16-38 30-38s27 14 30 38H50z" fill="#8d5a2c"/>
+  <path d="M58 94h44v10H58z" fill="#d6ad7c"/>
+  <circle cx="70" cy="52" r="3" fill="#333"/>
+  <circle cx="90" cy="52" r="3" fill="#333"/>
+  <path d="M70 66c3 3 7 5 10 5s7-2 10-5" stroke="#7a3e13" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M52 44c8-18 23-24 28-24s20 6 28 24" fill="#2b2017"/>
+  <path d="M44 136h72" stroke="#b07844" stroke-width="6" stroke-linecap="round"/>
+</svg>
